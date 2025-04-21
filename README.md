@@ -137,7 +137,7 @@ A data analytics project that explores key business performance metrics using a 
 
 ## 📁 Dataset Source
 
-- [Data Analysis for Marketing Strategy Dataset – Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/code/sasakitetsuya/data-analysis-for-marketing-strategy/input?select=Sample+-+Superstore.csv))
+- [Data Analysis for Marketing Strategy Dataset – Kaggle](https://www.kaggle.com/code/sasakitetsuya/data-analysis-for-marketing-strategy/input?select=Sample+-+Superstore.csv)
 
 ---
 
