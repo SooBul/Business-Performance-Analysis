@@ -1,4 +1,4 @@
-# 🛒 Business Performance Analysis – Retail Store Dataset
+# 🛒 Analysis of Factors Affecting Business Performance
 
 A data analytics project that explores key business performance metrics using a retail store dataset (from Kaggle). The analysis focuses on sales, profit, customer behavior, delivery methods, and the impact of promotional strategies over the period 2014–2017.
 
