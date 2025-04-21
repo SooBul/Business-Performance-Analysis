@@ -37,16 +37,16 @@ A data analytics project that explores key business performance metrics using a 
 
 ## 📷 Sample Visuals
 ### Sales Overview
-![Sales Dashboard](images/sales_overview.png)
+![Sales Dashboard](images/sales_overview.PNG)
 
 ### Customer Segmentation
-![Customer Chart](images/customer_analytics.png)
+![Customer Chart](images/customer_analytics.PNG)
 
 ### Product Analytics
-![product Chart](images/product_analytics.png)
+![product Chart](images/product_analytics.PNG)
 
 ### Shipment & Discount Analytics
-![Shipment & Discount Chart](images/shipment&discount.png)
+![Shipment & Discount Chart](images/shipment&discount.PNG)
 ## 📁 Dataset Source
 
 - [Superstore Sales Dataset – Kaggle](https://www.kaggle.com/datasets)
