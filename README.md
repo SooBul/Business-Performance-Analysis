@@ -36,17 +36,25 @@ A data analytics project that explores key business performance metrics using a 
 - Analytical Thinking and Insight Generation
 
 ## 📷 Sample Visuals
+### Sales Overview
+![Sales Dashboard](images/sales_overview.png)
 
-> *(Insert screenshots of your Power BI dashboard or charts here)*
+### Customer Segmentation
+![Customer Chart](images/customer_analytics.png)
 
+### Product Analytics
+![product Chart](images/product_analytics.png)
+
+### Shipment & Discount Analytics
+![Shipment & Discount Chart](images/shipment&discount.png)
 ## 📁 Dataset Source
 
 - [Superstore Sales Dataset – Kaggle](https://www.kaggle.com/datasets)
 
 ## 👨‍💻 Author
 
-**[Your Name]** – Data Analyst Intern Applicant  
-📧 [Your Email] | 🌐 [LinkedIn or Portfolio Link]  
+**[Hỏa Ngọc Tú]** - **[SooBul]**
+📧 [ngoctu0984339401@gmail.com]
 
 ---
 
